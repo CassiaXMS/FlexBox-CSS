@@ -18,9 +18,10 @@
 
 ### ✍️ FlexBox
 
-	O Flexbox é um módulo completo e não uma única propriedade; algumas delas devem ser declaradas no
-	container (o elemento-pai, que chamamos de flex container), enquanto outras devem ser declaradas
-	nos elementos-filhos (os flex itens).
+	O Flexbox é um módulo completo a qual algumas propriedades devem ser declaradas no
+	container, que chamamos de flex container, enquanto outras devem ser declaradas
+	nos elementos-filhos que são os flex itens, a fim de tornar os elementos adaptáveis ao 
+ 	espaço e funcionais.
 
 ---
 
